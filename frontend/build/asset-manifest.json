@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa09f984.css",
-    "main.js": "/static/js/main.476a138e.js",
-    "index.html": "/index.html",
-    "main.aa09f984.css.map": "/static/css/main.aa09f984.css.map",
-    "main.476a138e.js.map": "/static/js/main.476a138e.js.map"
+    "main.css": "/artioweb/static/css/main.aa09f984.css",
+    "main.js": "/artioweb/static/js/main.476a138e.js",
+    "index.html": "/artioweb/index.html",
+    "main.aa09f984.css.map": "/artioweb/static/css/main.aa09f984.css.map",
+    "main.476a138e.js.map": "/artioweb/static/js/main.476a138e.js.map"
   },
   "entrypoints": [
     "static/css/main.aa09f984.css",

@@ -1,0 +1,11 @@
+.App {
+  min-height: 100vh;
+  background: #0a0a0a;
+}
+
+/* Remove any default app styles that might conflict */
+.App-logo,
+.App-header,
+.App-link {
+  display: none;
+}
